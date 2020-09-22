@@ -30,7 +30,7 @@ export const ProductList = styled(
 `;
 
 export const Product = styled.View`
-  background: #fff;
+  background: #525252;
   padding: 16px 16px;
   border-radius: 5px;
   margin: 8px;
